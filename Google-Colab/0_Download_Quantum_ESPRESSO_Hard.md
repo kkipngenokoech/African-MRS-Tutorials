@@ -1,6 +1,6 @@
 # Instructions to Download Quantum ESPRESSO on Your Computer
 
-**N.B. This is not for the faint-hearted! Only do this if you are very confident in your Python and terminal skills**
+**N.B. This is not for the faint-hearted! Only do this if you are very confident in your Python and terminal skills.**
 
 ## Low-Effort
 
@@ -13,7 +13,7 @@ For Windows users, you can follow these (admittedly quite sparse) [instructions 
 
 ## Other Things to Install
 
-Then I would recommend installying numpy, matplotlib, and scipy (see this [Getting Started page](https://wiki.max-centre.eu/index.php/Getting_Started))
-And also ASE (usually `pip3 install ase` in the terminal works, but be careful because recent versions of ASE are not very backwards-compatible.)
+Then I would recommend installying numpy, matplotlib, and scipy (see this [Getting Started page](https://wiki.max-centre.eu/index.php/Getting_Started)),
+and also ASE (usually `pip3 install ase` in the terminal works, but be careful because recent versions of ASE are not very backwards-compatible.)
 
 Feel free to reach out to any one of the workshop facilitators for help at any point!
